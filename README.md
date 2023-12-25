@@ -6,6 +6,8 @@ La estructura del proyecto sigue el paradigma CRUD, esto implica que el sistema 
 
 La principal orientación del proyecto es la integración eficiente con una base de datos y con el frontend en sistemas separados e independientes lo que permite brindar cierta flexibilidad.
 
+Se es necesario el uso del servidor Tomcat en su versión 10.0.23 y del JDK 17.
+
 ## Nota
 
 Cualquier credencial que se encuentre en este repositorio ha sido desactivada y los endpoints se encuentran inactivos, el único propósito de este proyecto es educativo y de prueba.
